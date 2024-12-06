@@ -1,7 +1,4 @@
----
-layout: default
-title: Herman Tsago - AI Enthusiast
----
+
 
 # Hi there 👋, I am Herman Tsago
 
